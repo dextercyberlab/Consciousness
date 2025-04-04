@@ -1,0 +1,4002 @@
+[
+    {
+        "datetime": "2025-02-27 15:52:56",
+        "sender": "Jett Ray",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 16:16:37",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 16:39:51",
+        "sender": "Freya Mills",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 17:33:42",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 03:04:16",
+        "sender": "Theo Collins",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:03:34",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 18:12:41",
+        "sender": "Clara Carroll",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 19:10:47",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 18:01:02",
+        "sender": "Avery Black",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 18:42:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:19:19",
+        "sender": "Tobias Price",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:54:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 21:19:43",
+        "sender": "Zeke Cunningham",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 21:26:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:14:07",
+        "sender": "Aria Knight",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:59:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 05:56:42",
+        "sender": "Uma Walker",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 06:07:44",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:29:52",
+        "sender": "Sadie Sanders",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:31:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 10:02:46",
+        "sender": "Kara Foster",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 10:19:05",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 22:36:46",
+        "sender": "Eli Green",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 23:36:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 07:53:08",
+        "sender": "Grace Taylor",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 08:19:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 21:01:53",
+        "sender": "Wade Barnes",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 21:35:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 13:31:38",
+        "sender": "Quinn Diaz",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 14:24:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 15:50:05",
+        "sender": "Xander Young",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 16:11:16",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 00:05:22",
+        "sender": "Kira Rice",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 00:28:48",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 16:09:17",
+        "sender": "Frank Moore",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 16:44:45",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 22:55:52",
+        "sender": "Vera Castillo",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 23:50:27",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 05:13:12",
+        "sender": "Uma Bennett",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:12:49",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 12:35:44",
+        "sender": "Finn Hughes",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 12:42:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 05:16:56",
+        "sender": "Quinn Clark",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 06:11:20",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 00:25:41",
+        "sender": "Wendy Allen",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 01:00:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 10:40:03",
+        "sender": "Charlie Davis",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 10:53:31",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 21:38:30",
+        "sender": "Brielle Holmes",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 22:11:20",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 17:24:12",
+        "sender": "Charlie Davis",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 18:06:34",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 06:46:02",
+        "sender": "Quinn Brooks",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 06:56:02",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 05:26:29",
+        "sender": "Finn Hughes",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 06:08:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 00:14:33",
+        "sender": "Liam Peterson",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 00:50:51",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 05:51:51",
+        "sender": "Ursula Stewart",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:18:09",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:21:19",
+        "sender": "Clara Carroll",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 22:03:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 05:56:20",
+        "sender": "Steve Lewis",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 06:41:26",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 00:42:49",
+        "sender": "Ian Nelson",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 01:18:12",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 21:12:39",
+        "sender": "Felix Cooper",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 22:07:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 15:19:12",
+        "sender": "Vera Wood",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 15:36:50",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 13:24:26",
+        "sender": "Sofia Edwards",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 14:13:05",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 20:35:13",
+        "sender": "Hank Andrews",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 20:55:35",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 07:09:01",
+        "sender": "Ivy Johnston",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 07:17:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 00:36:46",
+        "sender": "Rory Kelly",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 01:22:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 16:36:55",
+        "sender": "Steve Lewis",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 16:56:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 15:14:06",
+        "sender": "Leo Martin",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 16:06:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 02:20:09",
+        "sender": "Nina Garcia",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 02:52:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 17:52:41",
+        "sender": "Gunner Warren",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 18:12:18",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:03:31",
+        "sender": "Peyton Nichols",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:54:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 19:36:26",
+        "sender": "Gwen Richardson",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 19:44:31",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 22:25:58",
+        "sender": "Yara Simpson",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 22:57:44",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 20:29:16",
+        "sender": "Theo Collins",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 20:38:45",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 02:12:42",
+        "sender": "Uma Bennett",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 03:07:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 22:25:15",
+        "sender": "Riley Evans",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 23:03:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 01:29:39",
+        "sender": "Eve Wilson",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 02:04:31",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 00:34:14",
+        "sender": "Ivy Johnston",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 01:20:51",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 18:32:37",
+        "sender": "Isla Howard",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 19:05:30",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 23:07:20",
+        "sender": "Kara Foster",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 00:00:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 13:37:51",
+        "sender": "Fiona Adams",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 14:30:32",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 00:18:33",
+        "sender": "Aria Knight",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 01:11:32",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 16:15:22",
+        "sender": "Ophelia Russell",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:16:15",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 14:48:51",
+        "sender": "Kara Lane",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 15:10:25",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 02:14:03",
+        "sender": "Dahlia Meyer",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 02:57:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 16:50:49",
+        "sender": "Avery Black",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 16:53:46",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 23:59:57",
+        "sender": "Xena Rogers",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 00:29:17",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 16:46:33",
+        "sender": "Rachel Rodriguez",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 17:27:57",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 11:26:35",
+        "sender": "Jane Smith",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 12:09:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 16:09:10",
+        "sender": "Cora Murphy",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 16:18:33",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 11:47:20",
+        "sender": "Gia Flores",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 11:49:56",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 16:55:15",
+        "sender": "Hank Anderson",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:50:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 09:50:19",
+        "sender": "Jett Ray",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 10:12:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 00:28:52",
+        "sender": "Steve Lewis",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 00:38:35",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 13:31:21",
+        "sender": "Ira Rose",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 14:15:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 09:45:29",
+        "sender": "Ivy Thomas",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 10:24:01",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 02:46:31",
+        "sender": "Rory Medina",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 03:22:37",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 23:59:36",
+        "sender": "Victor Hall",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 00:20:48",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 08:31:32",
+        "sender": "Rory Kelly",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 09:28:58",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 09:35:08",
+        "sender": "Zack King",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 10:11:20",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 13:07:40",
+        "sender": "Xyla Hoffman",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 13:13:26",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 03:08:48",
+        "sender": "Gunner Warren",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 03:36:02",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 15:41:44",
+        "sender": "Grace Taylor",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 15:58:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 17:14:58",
+        "sender": "Peyton Nichols",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 17:39:45",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 08:48:10",
+        "sender": "Fiona Adams",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 08:52:11",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 20:12:02",
+        "sender": "Ophelia Russell",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 20:24:15",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:51:02",
+        "sender": "Bella Lopez",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:54:56",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 03:46:15",
+        "sender": "Clara Powell",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 04:02:03",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 07:27:58",
+        "sender": "Eli Green",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 08:10:01",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 02:24:31",
+        "sender": "Violet Murray",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 03:02:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 09:51:52",
+        "sender": "Theo Collins",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 09:58:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 04:26:31",
+        "sender": "Daisy Scott",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 05:12:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 23:05:49",
+        "sender": "Jade Carter",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 00:05:05",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 15:05:34",
+        "sender": "Ivy Thomas",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 15:44:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 09:29:42",
+        "sender": "Alice Johnson",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 09:53:01",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 21:10:08",
+        "sender": "Xyla Ross",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 21:12:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 20:02:15",
+        "sender": "Tina Lee",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 20:56:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 12:51:45",
+        "sender": "Hank Washington",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 12:56:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:12:24",
+        "sender": "Jett Ray",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:17:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 22:05:49",
+        "sender": "Hugo Cox",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 22:27:55",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 02:49:49",
+        "sender": "Dexter Bailey",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 03:29:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 13:35:51",
+        "sender": "Owen Phillips",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 13:41:15",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 21:39:14",
+        "sender": "Peyton Nichols",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 22:32:24",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 18:54:13",
+        "sender": "Ava Morgan",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 19:36:47",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 20:57:04",
+        "sender": "Sofia Edwards",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:47:19",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 15:40:40",
+        "sender": "Kara Lane",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 16:39:49",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 20:13:43",
+        "sender": "Quinn Diaz",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 21:12:43",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 16:45:23",
+        "sender": "Sienna Myers",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:07:43",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 05:01:08",
+        "sender": "Kira Rice",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 05:54:47",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 17:45:46",
+        "sender": "Maya Gray",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 18:38:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:20:46",
+        "sender": "Wyatt Morris",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:52:51",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 22:31:39",
+        "sender": "Sienna Myers",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 23:02:08",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 17:29:19",
+        "sender": "Kira Torres",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 18:00:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 14:06:59",
+        "sender": "Xyla Ross",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 14:30:36",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 20:49:12",
+        "sender": "Rachel Rodriguez",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 21:12:34",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 02:21:20",
+        "sender": "Blake Bell",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 02:39:27",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 09:31:18",
+        "sender": "Ivy Butler",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 10:08:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 08:11:27",
+        "sender": "Tobias Price",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 08:29:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:17:20",
+        "sender": "Maren Schmidt",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:43:48",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 08:59:17",
+        "sender": "Wes Ortiz",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 09:24:56",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 08:47:19",
+        "sender": "Sienna Myers",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 09:04:25",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 18:49:05",
+        "sender": "Xyla Ross",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 19:30:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 01:17:35",
+        "sender": "Jake Ward",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 02:09:41",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 17:18:46",
+        "sender": "Cruz Stone",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 18:08:49",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 05:48:19",
+        "sender": "Parker Griffin",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:48:46",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 14:57:10",
+        "sender": "Brett Perry",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 15:01:41",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 18:57:54",
+        "sender": "Zeke Cunningham",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 19:49:38",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 05:27:36",
+        "sender": "Nash Alexander",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 05:42:36",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 07:35:00",
+        "sender": "Eve Wilson",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 07:45:38",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 13:21:25",
+        "sender": "Hank Anderson",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 13:31:51",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 01:38:24",
+        "sender": "Liam Peterson",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 01:48:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 22:39:43",
+        "sender": "Riley Evans",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 23:19:10",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 01:26:24",
+        "sender": "Emmett Boyd",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 02:09:08",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 08:45:11",
+        "sender": "Jake Ward",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 09:00:29",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 23:23:49",
+        "sender": "Sadie Sanders",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 00:12:25",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 20:22:10",
+        "sender": "John Doe",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 20:28:44",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 02:42:10",
+        "sender": "Brett Bradley",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 03:11:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 21:39:58",
+        "sender": "Hank Andrews",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 22:28:02",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 15:34:34",
+        "sender": "Theo Collins",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 15:54:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 03:29:58",
+        "sender": "Kira Torres",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 04:15:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 09:39:38",
+        "sender": "Kira Torres",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 10:39:34",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 03:26:46",
+        "sender": "Kara Lane",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:21:34",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 10:08:46",
+        "sender": "Ava Morgan",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 10:59:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 14:40:43",
+        "sender": "Yara Henderson",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 14:57:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 22:01:19",
+        "sender": "Cora Murphy",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 22:33:17",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 02:08:58",
+        "sender": "Zack King",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 02:44:01",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 13:00:17",
+        "sender": "Maya Gray",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 13:35:00",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 08:11:28",
+        "sender": "Wade Barnes",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 08:42:57",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 08:50:05",
+        "sender": "Alice Johnson",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 09:27:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 20:40:02",
+        "sender": "Kara Lane",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 21:18:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 19:14:32",
+        "sender": "Olive Ferguson",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 19:32:50",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 05:42:49",
+        "sender": "Oscar Martinez",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:15:41",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 01:42:12",
+        "sender": "Nora Turner",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 02:16:08",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 17:10:00",
+        "sender": "Xyla Ross",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 18:00:09",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 06:08:01",
+        "sender": "Peyton Nichols",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 06:32:17",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 07:01:14",
+        "sender": "Fiona Adams",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 07:46:22",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 06:43:41",
+        "sender": "Karen Harris",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 07:24:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 12:12:10",
+        "sender": "Wade Barnes",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 12:52:36",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 04:09:32",
+        "sender": "Hazel Gonzalez",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 04:44:48",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 06:11:15",
+        "sender": "Eli Green",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 06:14:20",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 08:40:59",
+        "sender": "Wyatt Morris",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 08:57:26",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 07:47:13",
+        "sender": "Kira Rice",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 08:07:33",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 00:14:45",
+        "sender": "Dante Long",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 00:54:12",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 09:37:05",
+        "sender": "Tobias Fernandez",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 10:06:29",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 05:12:21",
+        "sender": "Sienna Myers",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 06:03:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 05:03:35",
+        "sender": "Ophelia Russell",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 05:24:13",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 09:13:14",
+        "sender": "Jett Ray",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 09:50:34",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 11:24:02",
+        "sender": "Tobias Fernandez",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 12:02:46",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 03:05:24",
+        "sender": "John Doe",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 03:09:16",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 12:25:32",
+        "sender": "Jake Ward",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 13:16:16",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 03:48:48",
+        "sender": "Eli Green",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 03:50:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 15:03:12",
+        "sender": "Fiona Adams",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 15:47:47",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 04:12:46",
+        "sender": "Avery Black",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 04:27:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 16:25:51",
+        "sender": "Maya Gray",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 16:31:50",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 06:59:08",
+        "sender": "Finn Hughes",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 07:09:12",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 16:34:22",
+        "sender": "Brett Bradley",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 17:21:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 01:02:41",
+        "sender": "Brett Perry",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 01:15:10",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 12:48:21",
+        "sender": "Maren Schmidt",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 13:27:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 19:40:45",
+        "sender": "Yara Hernandez",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 19:59:01",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 16:46:41",
+        "sender": "Mia Thompson",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 17:36:36",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 21:54:30",
+        "sender": "Owen Phillips",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 22:48:03",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 14:54:39",
+        "sender": "Nolan Ramirez",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 14:58:51",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 13:33:47",
+        "sender": "Nolan Ramirez",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 14:27:18",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 08:35:57",
+        "sender": "Jake Ward",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 09:09:12",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 17:29:47",
+        "sender": "Dante Long",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 18:25:43",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 13:52:25",
+        "sender": "Penny Campbell",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 14:34:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 20:32:14",
+        "sender": "Gwen Richardson",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 21:08:38",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:56:00",
+        "sender": "Brett Perry",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 22:12:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 23:17:45",
+        "sender": "Parker Griffin",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 00:15:01",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 03:56:39",
+        "sender": "Bella Lopez",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 04:30:36",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 09:55:33",
+        "sender": "Gunner Warren",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 10:34:27",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 10:44:47",
+        "sender": "Hank Anderson",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 11:03:49",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 07:33:55",
+        "sender": "Quinn Brooks",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 07:55:43",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 19:19:35",
+        "sender": "Clara Carroll",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 19:44:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 10:42:56",
+        "sender": "Grace Taylor",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 11:25:40",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 02:28:40",
+        "sender": "Xena Rogers",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 02:54:10",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 08:30:14",
+        "sender": "Cora Murphy",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 08:31:46",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 18:22:40",
+        "sender": "Violet Sanchez",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 18:40:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 05:08:48",
+        "sender": "Zeke Cunningham",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 06:00:39",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 09:16:02",
+        "sender": "Eve Wilson",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 09:27:53",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 10:39:00",
+        "sender": "Rory Medina",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 11:18:22",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 03:49:46",
+        "sender": "Olive James",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-02 04:15:54",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 01:49:22",
+        "sender": "Caleb Hill",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 02:28:05",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 13:29:42",
+        "sender": "Steve Lewis",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 14:00:31",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 19:28:19",
+        "sender": "Eva Rivera",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 20:07:09",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 04:47:27",
+        "sender": "Peyton Nichols",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 05:01:31",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:11:16",
+        "sender": "Ira Rose",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 17:45:19",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:39:48",
+        "sender": "Quinn Clark",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 07:26:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 11:26:57",
+        "sender": "Ursula Stewart",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 11:32:30",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 06:29:50",
+        "sender": "Yara Elliott",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 07:25:30",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 10:52:42",
+        "sender": "Ira Rose",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 11:52:44",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 02:08:27",
+        "sender": "Jax Lane",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 02:35:36",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 22:12:31",
+        "sender": "Peyton Watson",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 23:12:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 19:45:43",
+        "sender": "Aria Jenkins",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 20:43:39",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 08:56:08",
+        "sender": "Zeke Coleman",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 09:32:12",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 11:17:54",
+        "sender": "Zeke Crawford",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 11:30:13",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 19:17:13",
+        "sender": "Mia Thompson",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 20:02:54",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 00:34:03",
+        "sender": "Dexter Bailey",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 01:00:38",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 10:56:05",
+        "sender": "Tobias Price",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 11:42:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 03:07:54",
+        "sender": "Yara Elliott",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 03:10:04",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:19:33",
+        "sender": "Rory Kelly",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 21:27:10",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 01:45:02",
+        "sender": "Nina Garcia",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 01:46:46",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 01:51:37",
+        "sender": "Sofia Edwards",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 02:30:57",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 02:19:38",
+        "sender": "Xander Vargas",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 02:34:37",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "Sure, I can help. What issues are you facing?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 08:03:19",
+        "sender": "Kai Mitchell",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 08:17:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 12:16:28",
+        "sender": "Eve Wilson",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 13:17:18",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 18:16:38",
+        "sender": "Wendy Allen",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 19:13:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 14:29:23",
+        "sender": "Jett Simmons",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Hi, I just wanted to check in and see how you're doing. It's been a while since we last talked.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 14:57:32",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 05:20:28",
+        "sender": "Karen Harris",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 05:22:20",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 20:28:24",
+        "sender": "Leo Martin",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 21:09:11",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 19:08:28",
+        "sender": "Wes Ortiz",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 19:48:49",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 17:58:46",
+        "sender": "Wes Ortiz",
+        "type": "received",
+        "subject": "Coffee Catch-Up",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 18:24:52",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 05:54:21",
+        "sender": "Wade Harvey",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 06:41:38",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 23:44:53",
+        "sender": "Victor Hall",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 00:41:59",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 14:40:07",
+        "sender": "Bob Brown",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 14:44:28",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 13:54:48",
+        "sender": "Sienna Myers",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 14:12:23",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 18:51:58",
+        "sender": "Clara Powell",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 19:21:55",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 18:02:19",
+        "sender": "Brett Bradley",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-04 18:54:21",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 14:39:47",
+        "sender": "Clara Powell",
+        "type": "received",
+        "subject": "Report Submission",
+        "body": "I'm having some issues with the new software. Can you help me troubleshoot it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 15:23:02",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Trip Recommendations",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 17:04:10",
+        "sender": "Nolan Ramirez",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I just finished reading that book you recommended. It was fantastic! Thanks for the suggestion.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 18:00:17",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 09:04:33",
+        "sender": "Aria Knight",
+        "type": "received",
+        "subject": "Weekend Plans",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 09:40:35",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Report Submission",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 05:54:32",
+        "sender": "Finn Armstrong",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 06:28:07",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 19:26:17",
+        "sender": "Cora Murphy",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 19:35:42",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Meeting Reminder",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 19:47:27",
+        "sender": "Uma Chavez",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 20:28:08",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 09:11:32",
+        "sender": "Tobias Fernandez",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 09:57:19",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Package Delivery Notification",
+        "body": "I agree. I'll send a follow-up email to the team today.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:25:21",
+        "sender": "Clara Powell",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:42:32",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Thanks for sharing! I'll check it out later.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 22:20:24",
+        "sender": "Brielle Holmes",
+        "type": "received",
+        "subject": "Action Items from Last Meeting",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 23:14:14",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Yes, I think we can meet the deadline. Let's discuss the details tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 13:22:51",
+        "sender": "Gunner Warren",
+        "type": "received",
+        "subject": "New Software Issues",
+        "body": "Let's catch up this weekend. How about we grab a coffee on Saturday?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-27 13:47:46",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Yes, I received it. Thanks for letting me know!",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 09:25:15",
+        "sender": "Eva Rivera",
+        "type": "received",
+        "subject": "Trip Recommendations",
+        "body": "I was thinking about our project deadline. Do you think we can meet it? Let's discuss tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 09:49:44",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Weekend Plans",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 09:17:13",
+        "sender": "Aria Jenkins",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "Remember that meeting we had last week? I think we should follow up on the action items.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 10:01:51",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Hey! I'm doing well, thanks for checking in. How about you?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 00:48:18",
+        "sender": "Zane Cook",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-06 01:15:03",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Action Items from Last Meeting",
+        "body": "Sure, I'll send the report by EOD.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 16:21:18",
+        "sender": "Frank Moore",
+        "type": "received",
+        "subject": "Book Recommendation",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-02-28 16:45:13",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Follow-up on Project Deadline",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 06:44:43",
+        "sender": "Nash Patel",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I'm planning a trip next month. Do you have any recommendations for places to visit?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 07:25:48",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Book Recommendation",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 09:44:24",
+        "sender": "Olive James",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "Can you send me the report by EOD? I need to review it before the meeting tomorrow.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-03 10:25:30",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: New Software Issues",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 04:01:49",
+        "sender": "Parker Griffin",
+        "type": "received",
+        "subject": "Meeting Reminder",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-07 04:42:39",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "I'm glad you liked it! Let me know if you want more recommendations.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 03:54:50",
+        "sender": "Liam Peterson",
+        "type": "received",
+        "subject": "Package Delivery Notification",
+        "body": "I just got a notification that your package has been delivered. Did you receive it?",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-05 04:09:20",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "How about visiting the mountains? I heard it's beautiful this time of year.",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 21:45:50",
+        "sender": "Yara Simpson",
+        "type": "received",
+        "subject": "Follow-up on Project Deadline",
+        "body": "I saw this interesting article and thought you might find it useful. Here's the link: [link]",
+        "attachments": []
+    },
+    {
+        "datetime": "2025-03-01 22:46:37",
+        "sender": "Me",
+        "type": "sent",
+        "subject": "Re: Coffee Catch-Up",
+        "body": "Sounds great! Let's meet at 10 AM on Saturday.",
+        "attachments": []
+    }
+]
