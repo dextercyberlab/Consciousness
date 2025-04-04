@@ -1,0 +1,67 @@
+[
+    {
+        "datetime": "2025-02-28 06:34:48",
+        "sender": "Emma",
+        "log_type": "incoming"
+    },
+    {
+        "datetime": "2025-03-04 02:59:55",
+        "sender": "Alice",
+        "log_type": "outgoing"
+    },
+    {
+        "datetime": "2025-03-05 09:52:13",
+        "sender": "Alice",
+        "log_type": "incoming"
+    },
+    {
+        "datetime": "2025-03-06 11:49:09",
+        "sender": "Sarah",
+        "log_type": "outgoing"
+    },
+    {
+        "datetime": "2025-03-03 06:57:34",
+        "sender": "Tom",
+        "log_type": "incoming"
+    },
+    {
+        "datetime": "2025-03-03 06:32:11",
+        "sender": "Sarah",
+        "log_type": "incoming"
+    },
+    {
+        "datetime": "2025-02-27 04:47:24",
+        "sender": "Sarah",
+        "log_type": "incoming"
+    },
+    {
+        "datetime": "2025-03-03 15:47:28",
+        "sender": "Alice",
+        "log_type": "outgoing"
+    },
+    {
+        "datetime": "2025-03-04 01:54:11",
+        "sender": "Alice",
+        "log_type": "incoming"
+    },
+    {
+        "datetime": "2025-02-27 14:59:18",
+        "sender": "Alice",
+        "log_type": "outgoing"
+    },
+    {
+        "datetime": "2025-03-02 01:58:43",
+        "sender": "David",
+        "log_type": "outgoing"
+    },
+    {
+        "datetime": "2025-03-03 23:18:18",
+        "sender": "Sarah",
+        "log_type": "outgoing"
+    },
+    {
+        "datetime": "2025-03-04 12:55:38",
+        "sender": "Sarah",
+        "log_type": "incoming"
+    }
+]
