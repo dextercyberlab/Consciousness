@@ -20,7 +20,6 @@ dex.ipynb
 email_extraction.ipynb
 faiss_app_usage.index
 faiss_time_app_usage.index
-ins_not.py
 insight.py
 main.py
 new.ipynb
@@ -32,4 +31,14 @@ tfidf_browsing.npy
 tfidf_sms.npy
 vector_index2.faiss
 vector_store2.pkl
+lipid_analyzer.py
+app_usage.json
+browsing_history.json
+call_log_dataset_corrected.json
+daily_insights.json
+emails.json
+sms_log_dataset.json
+notification.py
+
+
 
