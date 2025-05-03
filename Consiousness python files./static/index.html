@@ -1,0 +1,40 @@
+<!-- static/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consciousness AI Companion</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Consciousness AI Companion</h1>
+        
+        <div class="columns">
+            <!-- Notifications Panel -->
+            <div class="panel">
+                <h2>Real-time Notifications</h2>
+                <div id="notifications"></div>
+            </div>
+            
+            <!-- Chat Interface -->
+            <div class="panel">
+                <h2>AI Assistant</h2>
+                <div id="chat-history"></div>
+                <div class="chat-input">
+                    <input type="text" id="question-input" placeholder="Ask me anything...">
+                    <button onclick="askQuestion()">Ask</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Summary Panel -->
+        <div class="panel">
+            <h2>Daily Insights Summary</h2>
+            <button onclick="loadSummary()">Refresh Summary</button>
+            <pre id="summary"></pre>
+        </div>
+    </div>
+    
+    <script src="/static/script.js"></script>
+</body>
+</html>
