@@ -31,6 +31,11 @@ notification.py
 newnotify.py
 daily_insights.txt
 insights_error.log
+gad.ipynb
+gad.py
+mental_health_risk_predictor.pkl
+sythetic_mental_health_data.csv
+requirements.txt
 
 
 
